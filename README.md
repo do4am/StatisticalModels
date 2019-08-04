@@ -14,4 +14,5 @@
 
   I am still working on another project.
 
-## Tools used: Python 2.7 with various modules NumPy, SciPy, Pandas, Pymc3, matplotlib...
+## Tools used: 
+  Python 2.7 with various modules NumPy, SciPy, Pandas, Pymc3, matplotlib...
