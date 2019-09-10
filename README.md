@@ -22,7 +22,9 @@
   Python 2.7 with various modules NumPy, SciPy, Pandas, Pymc3, matplotlib...
 
 ## Acknowledgement
-  The Click-Through Rate Analysed is inspired from : https://www.datascience.com/blog/introduction-to-bayesian-inference-learn-data-science-tutorials
-  - Re-implemented and gave explaination based on my understanding.
-  - Added analyst on different examples with different sample size.
-  - Added analyst on "what is the probabilty that posterior of version B is actualy greater than the posterior of version A."
+
+  - Inspired by an open-source tutorial, however explaination as well as comments were given based on my understandings.
+  - Implemented analysis on different examples with different sample size.
+  - Implemented analysis on "what is the probabilty that posterior of version B is actualy greater than the posterior of version A?"
+  
+    The Click-Through Rate Analysed is inspired from : https://www.datascience.com/blog/introduction-to-bayesian-inference-learn-data-science-tutorials
